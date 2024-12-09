@@ -1,3 +1,4 @@
 python -m venv venv
 pip install matplot
 pandas
+.\venv\Scripts\activate
